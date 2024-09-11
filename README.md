@@ -1,2 +1,2 @@
 # Cynthia-Ugwu-Clone
-[Link Text](https://cynthiaugwu-landingpage.netlify.app/)
+[Cynthia-Ugwu-Clone link](https://cynthiaugwu-landingpage.netlify.app/)
