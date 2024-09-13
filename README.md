@@ -1,5 +1,5 @@
 # Cynthia-Ugwu-Clone
-## I have cloned Cynthia Ugwo’s innovative web application designed for personal finance management. This project focuses on providing users with a sleek, user-friendly interface to track their expenses and manage their budgets effectively. My objective was to replicate the core functionality of the original while incorporating my own design elements and improvements.
+## I have cloned Cynthia Ugwo’s innovative web application designed for learning purpose. This project focuses on providing users with a sleek, user-friendly interface to track their expenses and manage their budgets effectively. My objective was to replicate the core functionality of the original while incorporating my own design elements and improvements.
 [Demo link](https://cynthiaugwu-landingpage.netlify.app/)
 ### Features
 - Enhanced User Interface: I have reworked the UI to make it more intuitive and visually appealing.
